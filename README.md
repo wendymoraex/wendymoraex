@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><br>I am a senior computer science student focused on backend engineering.
+I am a senior computer science student focused on backend engineering.
 
 
 # 💻 Tech Stack:
